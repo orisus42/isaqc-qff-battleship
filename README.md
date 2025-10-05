@@ -3,6 +3,12 @@
 ## Instructions:
 Read the problem statement in `Battleship.docx` and `Battleship - PPT.pdf`. This is an open-ended challenge with no starter code or required submission format - solve it however you want! Document your solution, code, results, and any relevant files in this repository.
 
+## Your Team:
+List out the QFF-Registered email IDs of people in your team here:
+- email1@example.com
+- email2@example.com
+- email3@example.com
+
 ## Your Solution:
 **Document your approach and results here.** Include:
 - Your methodology and reasoning
