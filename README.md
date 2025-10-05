@@ -1,23 +1,10 @@
 # Hackathon Problem - Battleship
 
-## Instructions:
-Read the problem statement in `Battleship.docx` and `Battleship - PPT.pdf`. This is an open-ended challenge with no starter code or required submission format - solve it however you want! Document your solution, code, results, and any relevant files in this repository.
-
 ## Your Team:
 List out the QFF-Registered email IDs of people in your team here:
-- email1@example.com
-- email2@example.com
-- email3@example.com
-
+- 24ucs031@lnmiit.ac.in
+  
 ## Your Solution:
-**Document your approach and results here.** Include:
-- Your methodology and reasoning
-- Code snippets or links to your implementation files
-- Results, outputs, or visualizations
-- Any challenges you faced and how you solved them
-
-[Replace this with your solution documentation]
+The solution approach is in solution.docx file in the repository and also linked here through google docs: https://docs.google.com/document/d/1jyx_qtV1aEMgPwGuYyiGmxlQz8jEpfXEBnLRDIPLGIw/edit?usp=sharing
 
 ---
-
-*Note: There is no autograder for this problem. Your solution will be manually reviewed.*
